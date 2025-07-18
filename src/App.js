@@ -15,7 +15,7 @@ export default function ProfileInputPage() {
   const [errors, setErrors] = useState({});
 
   const placeholders = {
-    name: "Full name",
+    name: "Name",
     position: "Select position",
     school: "School name",
     height: "e.g., 5'11\"",
